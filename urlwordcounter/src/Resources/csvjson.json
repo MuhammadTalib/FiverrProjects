@@ -1,0 +1,3132 @@
+[
+  {
+    "Num": 194,
+    "ObjectName": "breadcrumbUrl.crumbs",
+    "Title": "Breadcrumbs List",
+    "Description": "The Breadcrumbs List",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (crumbs)"
+  },
+  {
+    "Num": 193,
+    "ObjectName": "breadcrumbUrl.host",
+    "Title": "Breadcrumbs Host",
+    "Description": "The Host for the Breadcrumbs",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 8,
+    "ObjectName": "cacheUrl",
+    "Title": "Google Cache",
+    "Description": "The Cached Google Result URL of the Page",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-google",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 12,
+    "ObjectName": "contentNoFormatting",
+    "Title": "Google Description",
+    "Description": "The Description",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fab fa-google",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 60,
+    "ObjectName": "richSnippet.aggregateoffer.highprice",
+    "Title": "High Price",
+    "Description": "The Aggregate Offer High Price",
+    "Sort by type": "Price",
+    "FontAwesomeIcon": "fas fa-dollar-sign",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 61,
+    "ObjectName": "richSnippet.aggregateoffer.lowprice",
+    "Title": "Low Price",
+    "Description": "The Aggregate Offer Low Price",
+    "Sort by type": "Price",
+    "FontAwesomeIcon": "fas fa-dollar-sign",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 59,
+    "ObjectName": "richSnippet.aggregateoffer.name",
+    "Title": "Name",
+    "Description": "The Aggregate Offer Product Or Service Name",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 62,
+    "ObjectName": "richSnippet.aggregateoffer.pricecurrency",
+    "Title": "Price Currency",
+    "Description": "The Aggregate Offer Price’S Currency on the Page",
+    "Sort by type": "Price",
+    "FontAwesomeIcon": "fas fa-dollar-sign",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 58,
+    "ObjectName": "richSnippet.aggregaterating.ratingcount",
+    "Title": "Rating Count",
+    "Description": "The Aggregate Rating Count",
+    "Sort by type": "Rating",
+    "FontAwesomeIcon": "fas fa-star-half-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 57,
+    "ObjectName": "richSnippet.aggregaterating.ratingvalue",
+    "Title": "Rating Value",
+    "Description": "The Aggregate Rating Value",
+    "Sort by type": "Rating",
+    "FontAwesomeIcon": "fas fa-star-half-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.answer.datecreated",
+    "Title": "Answer Date Created",
+    "Description": "The Answer Date Created",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (answer)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.answer.text",
+    "Title": "Answer Text",
+    "Description": "The Answer Text",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (answer)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.answer.upvotecount",
+    "Title": "Answer Upvote Count",
+    "Description": "The Answer Upvote Count",
+    "Sort by type": "Count",
+    "FontAwesomeIcon": "fas fa-info-circle",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (answer)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.answer.url",
+    "Title": "Answer URL",
+    "Description": "The Answer URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": "yes (answer)"
+  },
+  {
+    "Num": 90,
+    "ObjectName": "richSnippet.article.articlebody",
+    "Title": "Article Body",
+    "Description": "The Article Body",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-align-left",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 98,
+    "ObjectName": "richSnippet.article.articlesection",
+    "Title": "Article Section",
+    "Description": "The Article Section",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 93,
+    "ObjectName": "richSnippet.article.author",
+    "Title": "Article Author",
+    "Description": "The Article Author",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 104,
+    "ObjectName": "richSnippet.article.datemodified",
+    "Title": "Article Date Modified",
+    "Description": "The Article Date Modified",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 106,
+    "ObjectName": "richSnippet.article.datepublished",
+    "Title": "Article Date Published",
+    "Description": "The Article Date Published",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 13,
+    "ObjectName": "richSnippet.article.description",
+    "Title": "Article Description",
+    "Description": "The Article Description",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-align-left",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 99,
+    "ObjectName": "richSnippet.article.headline",
+    "Title": "Article Headline",
+    "Description": "The Article Headline",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 139,
+    "ObjectName": "richSnippet.article.image",
+    "Title": "Article Image",
+    "Description": "The Article Image",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 108,
+    "ObjectName": "richSnippet.article.mainentityofpage",
+    "Title": "Article Page Entity",
+    "Description": "The Article Entity of the Page",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 92,
+    "ObjectName": "richSnippet.article.name",
+    "Title": "Article Name",
+    "Description": "The Article Name",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 100,
+    "ObjectName": "richSnippet.article.url",
+    "Title": "Article URL",
+    "Description": "The Article URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 45,
+    "ObjectName": "richSnippet.blogposting.author",
+    "Title": "Blog Author",
+    "Description": "The Blog Author",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": "yes (blogposting)"
+  },
+  {
+    "Num": 44,
+    "ObjectName": "richSnippet.blogposting.datemodified",
+    "Title": "Blog Date Modified",
+    "Description": "The Blog Date Modified",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (blogposting)"
+  },
+  {
+    "Num": 48,
+    "ObjectName": "richSnippet.blogposting.datepublished",
+    "Title": "Blog Date Published",
+    "Description": "The Blog Date Published",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (blogposting)"
+  },
+  {
+    "Num": 47,
+    "ObjectName": "richSnippet.blogposting.headline",
+    "Title": "Blog Headline",
+    "Description": "The Blog Headline",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (blogposting)"
+  },
+  {
+    "Num": 46,
+    "ObjectName": "richSnippet.blogposting.name",
+    "Title": "Blog Name",
+    "Description": "The Blog Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (blogposting)"
+  },
+  {
+    "Num": 31,
+    "ObjectName": "richSnippet.creativework.datemodified",
+    "Title": "Creative Work Modified",
+    "Description": "The Creative Work Date Modified",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 32,
+    "ObjectName": "richSnippet.creativework.datepublished",
+    "Title": "Creative Work Published",
+    "Description": "The Creative Work Date Published",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 30,
+    "ObjectName": "richSnippet.creativework.headline",
+    "Title": "Creative Work Headline",
+    "Description": "The Creative Work Headline",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (creativework)"
+  },
+  {
+    "Num": 28,
+    "ObjectName": "richSnippet.creativework.image",
+    "Title": "Creative Work Image",
+    "Description": "The Creative Work Image",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": "yes (creativework)"
+  },
+  {
+    "Num": 29,
+    "ObjectName": "richSnippet.creativework.text",
+    "Title": "Creative Work Text",
+    "Description": "The Creative Work Text",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-align-left",
+    "NOTE for Vlad": "unescape special html like \\\" to “",
+    "Possible objects list [ ]": "yes (creativework)"
+  },
+  {
+    "Num": 135,
+    "ObjectName": "richSnippet.cseImage.src",
+    "Title": "Thumbnail Image CSE",
+    "Description": "The CSE Thumbnail Image",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 63,
+    "ObjectName": "richSnippet.cseThumbnail.currency",
+    "Title": "Currency",
+    "Description": "The Currency Being Used",
+    "Sort by type": "Price",
+    "FontAwesomeIcon": "fas fa-dollar-sign",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 72,
+    "ObjectName": "richSnippet.cseThumbnail.fn",
+    "Title": "Thumbnail Name",
+    "Description": "The Thumbnail Name",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 136,
+    "ObjectName": "richSnippet.cseThumbnail.src",
+    "Title": "Thumbnail CSE",
+    "Description": "The CSE Thumbnail",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.geocoordinates.latitude",
+    "Title": "Coordinates Latitude",
+    "Description": "The Geo Coordinates Latitude",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (geocoordinates)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.geocoordinates.longitude",
+    "Title": "Coordinates Longitude",
+    "Description": "The Geo Coordinates Longitude",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (geocoordinates)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.hcard.bday",
+    "Title": "Author Birthday",
+    "Description": "The Author Birthday",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.hcard.category",
+    "Title": "Author Category",
+    "Description": "The Author Category",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 18,
+    "ObjectName": "richSnippet.hcard.fn",
+    "Title": "Author Name",
+    "Description": "The Name of the Author of the Page",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": "yes (hcard)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.hcard.label",
+    "Title": "Author Label",
+    "Description": "The Author Label",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 21,
+    "ObjectName": "richSnippet.hcard.nickname",
+    "Title": "Author Nickname",
+    "Description": "The Author Nickname",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": "yes (hcard)"
+  },
+  {
+    "Num": 20,
+    "ObjectName": "richSnippet.hcard.photo",
+    "Title": "Author Photo",
+    "Description": "The Author Photo",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": "yes (hcard)"
+  },
+  {
+    "Num": 19,
+    "ObjectName": "richSnippet.hcard.url",
+    "Title": "Author Page",
+    "Description": "The Page on the Site of the Author of the Page",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": "yes (hcard)"
+  },
+  {
+    "Num": 22,
+    "ObjectName": "richSnippet.hcard.urlText",
+    "Title": "Author Text",
+    "Description": "The Author Name Text",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": "yes (hcard)"
+  },
+  {
+    "Num": 73,
+    "ObjectName": "richSnippet.imageobject.caption",
+    "Title": "Image Caption",
+    "Description": "The Image Caption",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (imageobject)"
+  },
+  {
+    "Num": 142,
+    "ObjectName": "richSnippet.imageobject.contenturl",
+    "Title": "Image Content",
+    "Description": "The Image Content URL",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": "yes (imageobject)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.imageobject.creator",
+    "Title": "Image Creator",
+    "Description": "The Image Creator",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": "yes (imageobject)"
+  },
+  {
+    "Num": 141,
+    "ObjectName": "richSnippet.imageobject.url",
+    "Title": "Image",
+    "Description": "The Image URL",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": "yes (imageobject)"
+  },
+  {
+    "Num": 78,
+    "ObjectName": "richSnippet.listitem.name",
+    "Title": "List Item",
+    "Description": "The List Item",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (listitem)"
+  },
+  {
+    "Num": 197,
+    "ObjectName": "richSnippet.metatags.ahrefsSiteVerification",
+    "Title": "Verification ahrefs",
+    "Description": "The Verification Code for Ahrefs",
+    "Sort by type": "Verification",
+    "FontAwesomeIcon": "fas fa-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 183,
+    "ObjectName": "richSnippet.metatags.alAndroidAppName",
+    "Title": "Android App Name",
+    "Description": "The Android App Name",
+    "Sort by type": "App",
+    "FontAwesomeIcon": "fab fa-android",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 181,
+    "ObjectName": "richSnippet.metatags.alAndroidPackage",
+    "Title": "Android App Package",
+    "Description": "The Android App Package",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-android",
+    "NOTE for Vlad": "make a hyperlink with https://play.google.com/store/apps/details?id= using the ID",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 176,
+    "ObjectName": "richSnippet.metatags.alAndroidUrl",
+    "Title": "Facebook Android App",
+    "Description": "The Facebook Android App ID",
+    "Sort by type": "App",
+    "FontAwesomeIcon": "fab fa-facebook-f",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.alIosAppName",
+    "Title": "iOS App Name",
+    "Description": "The iOS App Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fab fa-apple",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 180,
+    "ObjectName": "richSnippet.metatags.alIosAppStoreId",
+    "Title": "iOS App Store ID",
+    "Description": "The iOS App Store ID",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-apple",
+    "NOTE for Vlad": "make a hyperlink with https://apps.apple.com/us/app/keyword-research-tool/id using the ID",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 175,
+    "ObjectName": "richSnippet.metatags.alIosUrl",
+    "Title": "iOS App URL",
+    "Description": "The iOS App URL ID",
+    "Sort by type": "App",
+    "FontAwesomeIcon": "fab fa-apple",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.alIpadAppName",
+    "Title": "iPad App Name",
+    "Description": "The iPad App Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fab fa-apple",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.alIpadAppStoreId",
+    "Title": "iPad App Store ID",
+    "Description": "The iPad App Store ID",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-apple",
+    "NOTE for Vlad": "make a hyperlink with https://apps.apple.com/us/app/keyword-research-tool/id using the ID",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.alIpadUrl",
+    "Title": "iPad App URL",
+    "Description": "The iPad App URL ID",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-apple",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.alIphoneAppName",
+    "Title": "iPhone App Name",
+    "Description": "The iPhone App Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fab fa-apple",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.alIphoneAppStoreId",
+    "Title": "iPhone App Store ID",
+    "Description": "The iPhone App Store ID",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-apple",
+    "NOTE for Vlad": "make a hyperlink with https://apps.apple.com/us/app/keyword-research-tool/id using the ID",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.alIphoneUrl",
+    "Title": "iPhone App URL",
+    "Description": "The iPhone App URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-apple",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 49,
+    "ObjectName": "richSnippet.metatags.analyticsattributesArticledate",
+    "Title": "Attribute Article Date",
+    "Description": "The GA Attribution Article Date",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 14,
+    "ObjectName": "richSnippet.metatags.analyticsattributesAuthor",
+    "Title": "Author Attribution",
+    "Description": "The GA Author Attribution",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 83,
+    "ObjectName": "richSnippet.metatags.analyticsattributesBackendchannellist",
+    "Title": "Attribute Channels",
+    "Description": "The GA Attributes for Channel List",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 9,
+    "ObjectName": "richSnippet.metatags.analyticsattributesCanonicalurl",
+    "Title": "Canonical URL Attribute",
+    "Description": "The GA Canonical URL Attribution",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 95,
+    "ObjectName": "richSnippet.metatags.analyticsattributesChannel",
+    "Title": "Attributes Channel",
+    "Description": "The GA Attributes Channel",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 81,
+    "ObjectName": "richSnippet.metatags.analyticsattributesContentchannel",
+    "Title": "Conent Channels",
+    "Description": "The GA Attributes for Content Channels",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 3,
+    "ObjectName": "richSnippet.metatags.analyticsattributesContenttitle",
+    "Title": "Content Title Attribution",
+    "Description": "The GA Content Title Attribution",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 69,
+    "ObjectName": "richSnippet.metatags.analyticsattributesContenttype",
+    "Title": "Content Type Attribution",
+    "Description": "The GA Content Type Attribution",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 160,
+    "ObjectName": "richSnippet.metatags.analyticsattributesEdition",
+    "Title": "Attributes Edition",
+    "Description": "The GA Attributes Edition Country Code",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 68,
+    "ObjectName": "richSnippet.metatags.analyticsattributesInlinetype",
+    "Title": "Inline Type Attribution",
+    "Description": "The GA Inline Type Attribution",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 74,
+    "ObjectName": "richSnippet.metatags.analyticsattributesKeywords",
+    "Title": "Attribution Keywords",
+    "Description": "The GA Attribution Keywords",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 4,
+    "ObjectName": "richSnippet.metatags.analyticsattributesTitle",
+    "Title": "Attributes Title",
+    "Description": "The GA Attributes Title",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 94,
+    "ObjectName": "richSnippet.metatags.analyticsattributesTopicchannel",
+    "Title": "Attributes Topic Channel",
+    "Description": "The GA Attributes Topic Channel",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 75,
+    "ObjectName": "richSnippet.metatags.analyticsattributesTopicn2codes",
+    "Title": "Attribution Topic Codes",
+    "Description": "The GA Attribution Topic Codes",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 82,
+    "ObjectName": "richSnippet.metatags.analyticsattributesTopicn2names",
+    "Title": "Attribution Topics",
+    "Description": "The GA Attributes for Topic Names",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 168,
+    "ObjectName": "richSnippet.metatags.analyticsattributesTopicsubchannel",
+    "Title": "Topic Subchannel",
+    "Description": "The GA Attribution for the Topic Subchannel",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 179,
+    "ObjectName": "richSnippet.metatags.appleCustomItunesApp",
+    "Title": "Apple iTunes App",
+    "Description": "The Apple Custom Itunes App",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-apple",
+    "NOTE for Vlad": "make a hyperlink with https://apps.apple.com/us/app/keyword-research-tool/id using the ID after “app-id=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 177,
+    "ObjectName": "richSnippet.metatags.appleMobileWebAppStatusBarStyle",
+    "Title": "Apple Status Bar Style",
+    "Description": "The Apple Status Bar Style",
+    "Sort by type": "App",
+    "FontAwesomeIcon": "fab fa-apple",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 178,
+    "ObjectName": "richSnippet.metatags.appleMobileWebAppTitle",
+    "Title": "Apple App Title",
+    "Description": "The Apple Mobile Web App Title",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fab fa-apple",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 184,
+    "ObjectName": "richSnippet.metatags.applicationName",
+    "Title": "Application Name",
+    "Description": "The Application Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.articleAccess",
+    "Title": "Article Access",
+    "Description": "The Article Access free/paid",
+    "Sort by type": "Other",
+    "FontAwesomeIcon": "fas fa-sticky-note",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 91,
+    "ObjectName": "richSnippet.metatags.articleAuthor",
+    "Title": "Article Author Link",
+    "Description": "The Article Author Link",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 109,
+    "ObjectName": "richSnippet.metatags.articleContentTier",
+    "Title": "Article Content Tier",
+    "Description": "The Article Content Tier",
+    "Sort by type": "Other",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.articleCreated",
+    "Title": "Article Created",
+    "Description": "The Article Created Date",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.articleHeadline",
+    "Title": "Article Headline",
+    "Description": "The Article Headline",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.articleImageCount",
+    "Title": "Article Image Count",
+    "Description": "The Article Image Count",
+    "Sort by type": "Count",
+    "FontAwesomeIcon": "fas fa-info-circle",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.articleInternalLinkCount",
+    "Title": "Article Internal Links",
+    "Description": "The Article Internal Links Count",
+    "Sort by type": "Count",
+    "FontAwesomeIcon": "fas fa-info-circle",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 89,
+    "ObjectName": "richSnippet.metatags.articleModifiedTime",
+    "Title": "Article Modified",
+    "Description": "The Time the Article Was Modified",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 88,
+    "ObjectName": "richSnippet.metatags.articleOpinion",
+    "Title": "Article Opinion",
+    "Description": "Is the Page An Opinion Article?",
+    "Sort by type": "Other",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.articleOrigheadline",
+    "Title": "Article Original Headline",
+    "Description": "The Article Original Headline",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.articleOrigheadline",
+    "Title": "Article Page",
+    "Description": "The Article Page",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.articlePublished",
+    "Title": "Article Published",
+    "Description": "The Article Published Date",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 86,
+    "ObjectName": "richSnippet.metatags.articlePublishedTime",
+    "Title": "Article Publish Date",
+    "Description": "The Time the Article Was Published",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 87,
+    "ObjectName": "richSnippet.metatags.articlePublisher",
+    "Title": "Article Publisher",
+    "Description": "The Article Publisher",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 110,
+    "ObjectName": "richSnippet.metatags.articleSection",
+    "Title": "Article Section Name",
+    "Description": "The Article Section Name Being Used",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.articleSummary",
+    "Title": "Article Summary",
+    "Description": "The Article Summary",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-align-left",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 111,
+    "ObjectName": "richSnippet.metatags.articleTag",
+    "Title": "Article Tags",
+    "Description": "The Article Tags",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.articleType",
+    "Title": "Article Type",
+    "Description": "The Article Type",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.articleTypeDisplay",
+    "Title": "Article Type Display",
+    "Description": "The Article Type Display",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.articleWordCount",
+    "Title": "Article Word Count",
+    "Description": "The Article Word Count",
+    "Sort by type": "Count",
+    "FontAwesomeIcon": "fas fa-info-circle",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 15,
+    "ObjectName": "richSnippet.metatags.author",
+    "Title": "Author",
+    "Description": "The Author",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 84,
+    "ObjectName": "richSnippet.metatags.autoPublish",
+    "Title": "Autopublish Tag",
+    "Description": "The Name of the Autopublish Tag",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 10,
+    "ObjectName": "richSnippet.metatags.beNormUrl",
+    "Title": "Norm URL",
+    "Description": "The Norm URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 11,
+    "ObjectName": "richSnippet.metatags.beOrigUrl",
+    "Title": "Origin URL",
+    "Description": "The Origin URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.byl",
+    "Title": "By",
+    "Description": "The “By” Section",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.cg",
+    "Title": "Coverage Group",
+    "Description": "The Coverage Group",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.citationAuthor",
+    "Title": "Citation Author",
+    "Description": "The Citation Author",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.citationAuthorInstitution",
+    "Title": "Citation Author Insitution",
+    "Description": "The Citation Author Institution",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 123,
+    "ObjectName": "richSnippet.metatags.citationAuthors",
+    "Title": "Citation Authors",
+    "Description": "The Citation Authors",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.citationJournalAbbrev",
+    "Title": "Citation Journal Abbrev",
+    "Description": "The Citation Journal Abbreviation",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 116,
+    "ObjectName": "richSnippet.metatags.citationJournalTitle",
+    "Title": "Citation Journal Title",
+    "Description": "The Citation Journal Title",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.citationPublicationDate",
+    "Title": "Citation Publication Date",
+    "Description": "The Citation Publication Date",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.citationPublisher",
+    "Title": "Citation Publisher",
+    "Description": "The Citation Publisher",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 118,
+    "ObjectName": "richSnippet.metatags.citationReference",
+    "Title": "Citation Reference",
+    "Description": "The Citation Reference",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 114,
+    "ObjectName": "richSnippet.metatags.citationTitle",
+    "Title": "Citation Title",
+    "Description": "The Citation Title",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 112,
+    "ObjectName": "richSnippet.metatags.citationVolume",
+    "Title": "Citation Volume",
+    "Description": "The Citation Volume",
+    "Sort by type": "Count",
+    "FontAwesomeIcon": "fas fa-info-circle",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 52,
+    "ObjectName": "richSnippet.metatags.copyright",
+    "Title": "Copyright",
+    "Description": "The Copyright Name of the Page",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.datelastpubbed",
+    "Title": "Date Last Published",
+    "Description": "The Date last Published",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 117,
+    "ObjectName": "richSnippet.metatags.dcContributor",
+    "Title": "DC Contributor",
+    "Description": "The Dublin Core Contributor",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.dcCoverage",
+    "Title": "DC Coverage",
+    "Description": "The Dublin Core Coverage",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.dcCreator",
+    "Title": "DC Creator",
+    "Description": "The Dublin Core Creator URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 122,
+    "ObjectName": "richSnippet.metatags.dcDate",
+    "Title": "DC Date",
+    "Description": "The Dublin Core Date",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.dcDescription",
+    "Title": "DC Description",
+    "Description": "The Dublin Core Description",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-align-left",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.dcIdentifier",
+    "Title": "DC Identifier",
+    "Description": "The Dublin Core Identifier URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 119,
+    "ObjectName": "richSnippet.metatags.dcLanguage",
+    "Title": "DC Language",
+    "Description": "The Dublin Core Language",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 115,
+    "ObjectName": "richSnippet.metatags.dcPublisher",
+    "Title": "DC Publisher",
+    "Description": "The Dublin Core Publisher",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.dcSubject",
+    "Title": "DC Subject",
+    "Description": "The Dublin Core Subject",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 51,
+    "ObjectName": "richSnippet.metatags.dctermsDatecopyrighted",
+    "Title": "Copyright Date",
+    "Description": "The Copyright Date",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 50,
+    "ObjectName": "richSnippet.metatags.dctermsRightsholder",
+    "Title": "Rights Holder",
+    "Description": "The Rights Holder Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 121,
+    "ObjectName": "richSnippet.metatags.dcTitle",
+    "Title": "DC Title",
+    "Description": "The Dublin Core Title",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 120,
+    "ObjectName": "richSnippet.metatags.dcType",
+    "Title": "DC Type",
+    "Description": "The Dublin Core Type",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 65,
+    "ObjectName": "richSnippet.metatags.distribution",
+    "Title": "Distribution",
+    "Description": "The Distribution",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.expires",
+    "Title": "META Expires",
+    "Description": "The META Expires",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 172,
+    "ObjectName": "richSnippet.metatags.fbAdmins",
+    "Title": "Facebook Page Admin",
+    "Description": "The ID of the Facebook Page Admin",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-facebook-f",
+    "NOTE for Vlad": "Make hyperlink with https://www.facebook.com/profile.php?id=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 174,
+    "ObjectName": "richSnippet.metatags.fbAppId",
+    "Title": "Facebook App ID",
+    "Description": "The Facebook App ID for the Site",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fab fa-facebook-f",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 173,
+    "ObjectName": "richSnippet.metatags.fbPages",
+    "Title": "Facebook Page",
+    "Description": "The Facebook Page",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-facebook-f",
+    "NOTE for Vlad": "Make hyperlink with https://www.facebook.com/profile.php?id=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.geoPlacename",
+    "Title": "GEO Place Name",
+    "Description": "The Geo Place Name",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.geoPosition",
+    "Title": "GEO Position",
+    "Description": "The Geo Position",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 54,
+    "ObjectName": "richSnippet.metatags.google",
+    "Title": "Google",
+    "Description": "The META for Google",
+    "Sort by type": "Other",
+    "FontAwesomeIcon": "fab fa-google",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 53,
+    "ObjectName": "richSnippet.metatags.googlebotNews",
+    "Title": "Google Newsbot",
+    "Description": "The Google News Bot",
+    "Sort by type": "Other",
+    "FontAwesomeIcon": "fab fa-google",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 182,
+    "ObjectName": "richSnippet.metatags.googlePlayApp",
+    "Title": "Google Play App",
+    "Description": "The Google Play App",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fab fa-android",
+    "NOTE for Vlad": "make a hyperlink with https://play.google.com/store/apps/details?id= using the ID after “app-id=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 171,
+    "ObjectName": "richSnippet.metatags.iaMarkupUrl",
+    "Title": "Facebook Instant Article",
+    "Description": "The Facebook Instant Article URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-facebook-f",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.image",
+    "Title": "Image URL",
+    "Description": "The Image URL",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.language",
+    "Title": "Language",
+    "Description": "The Language",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.locale",
+    "Title": "Locale",
+    "Description": "The Locale",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.logCategory",
+    "Title": "Log Category",
+    "Description": "The Log Category",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.logo",
+    "Title": "Logo URL",
+    "Description": "The Logo URL",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.logSourceDb",
+    "Title": "Log Source DB",
+    "Description": "The Log Source DB",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.modified",
+    "Title": "Modified",
+    "Description": "The Modified Date And Time",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 186,
+    "ObjectName": "richSnippet.metatags.msapplicationSquare150x150logo",
+    "Title": "Windows Tile Logo 2",
+    "Description": "The Path to the 150x150 Logo of the Windows Tile",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fab fa-windows",
+    "NOTE for Vlad": "make it a hyperlink with https://domain.com/ in front",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 188,
+    "ObjectName": "richSnippet.metatags.msapplicationSquare310x310logo",
+    "Title": "Windows Tile Logo 4",
+    "Description": "The Path to the 310x310 Logo of the Windows Tile",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fab fa-windows",
+    "NOTE for Vlad": "make it a hyperlink with https://domain.com/ in front",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 185,
+    "ObjectName": "richSnippet.metatags.msapplicationSquare70x70logo",
+    "Title": "Windows Tile Logo 1",
+    "Description": "The Path to the 70x70 Logo of the Windows Tile",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fab fa-windows",
+    "NOTE for Vlad": "make it a hyperlink with https://domain.com/ in front",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.msapplicationStarturl",
+    "Title": "MS Appliation Start URL",
+    "Description": "The MS Appliation Start URL",
+    "Sort by type": "App",
+    "FontAwesomeIcon": "fab fa-windows",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 191,
+    "ObjectName": "richSnippet.metatags.msapplicationTapHighlight",
+    "Title": "Windows Tap",
+    "Description": "The Windows Phone Touch/Tap",
+    "Sort by type": "App",
+    "FontAwesomeIcon": "fab fa-windows",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 190,
+    "ObjectName": "richSnippet.metatags.msapplicationTilecolor",
+    "Title": "Windows Tile Color",
+    "Description": "The Color of the MS Windows Tile",
+    "Sort by type": "App",
+    "FontAwesomeIcon": "fab fa-windows",
+    "NOTE for Vlad": "display the color code as color, ie. #006341 will be style=”color:#006341”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 189,
+    "ObjectName": "richSnippet.metatags.msapplicationTileimage",
+    "Title": "Windows Tile Image",
+    "Description": "The Windows Tile Image",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fab fa-windows",
+    "NOTE for Vlad": "make it a hyperlink with https://domain.com/ in front",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 187,
+    "ObjectName": "richSnippet.metatags.msapplicationWide310x150logo",
+    "Title": "Windows Tile Logo 3",
+    "Description": "The Path to the 310x150 Logo of the Windows Tile",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fab fa-windows",
+    "NOTE for Vlad": "make it a hyperlink with https://domain.com/ in front",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 199,
+    "ObjectName": "richSnippet.metatags.msvalidate01",
+    "Title": "Verification Microsoft",
+    "Description": "The Verification Code for MS Webmaster Tools",
+    "Sort by type": "Verification",
+    "FontAwesomeIcon": "fab fa-windows",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.name",
+    "Title": "Name",
+    "Description": "The Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 76,
+    "ObjectName": "richSnippet.metatags.newsKeywords",
+    "Title": "News Keywords",
+    "Description": "The News Keywords",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 17,
+    "ObjectName": "richSnippet.metatags.ogArticleAuthor",
+    "Title": "OG Article Author",
+    "Description": "The Opengraph Article Author",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 103,
+    "ObjectName": "richSnippet.metatags.ogArticleModifiedTime",
+    "Title": "OG Modified Time",
+    "Description": "The Opengraph Modified Time",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 105,
+    "ObjectName": "richSnippet.metatags.ogArticlePublishedTime",
+    "Title": "OG Published Date",
+    "Description": "The Opengraph Published Time",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 97,
+    "ObjectName": "richSnippet.metatags.ogArticleSection",
+    "Title": "OG Article Section",
+    "Description": "The Opengraph Article Section",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 79,
+    "ObjectName": "richSnippet.metatags.ogArticleTag",
+    "Title": "OG Tag",
+    "Description": "The Opengraph Tag",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 167,
+    "ObjectName": "richSnippet.metatags.ogDescription",
+    "Title": "OG Description",
+    "Description": "The Opengraph Description of the Page",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-align-left",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 163,
+    "ObjectName": "richSnippet.metatags.ogImage",
+    "Title": "OG Image",
+    "Description": "The Opengraph Image",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 71,
+    "ObjectName": "richSnippet.metatags.ogImageAlt",
+    "Title": "OG Image Alt",
+    "Description": "The Opengraph Image Alt",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 164,
+    "ObjectName": "richSnippet.metatags.ogImageSecureUrl",
+    "Title": "OG Secure Image",
+    "Description": "The Opengraph Secure Image",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 169,
+    "ObjectName": "richSnippet.metatags.ogLatitude",
+    "Title": "OG Latitude",
+    "Description": "The Opengraph Latitude",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 161,
+    "ObjectName": "richSnippet.metatags.ogLocale",
+    "Title": "OG Locale",
+    "Description": "The Opengraph Locale of the Page",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 170,
+    "ObjectName": "richSnippet.metatags.ogLongitude",
+    "Title": "OG Longitude",
+    "Description": "The Opengraph Longitude",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 159,
+    "ObjectName": "richSnippet.metatags.ogSeeAlso",
+    "Title": "OG See Also",
+    "Description": "The Opengraph See Also Link",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 165,
+    "ObjectName": "richSnippet.metatags.ogSiteName",
+    "Title": "OG Site Name",
+    "Description": "The Opengraph Site Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 162,
+    "ObjectName": "richSnippet.metatags.ogType",
+    "Title": "OG Type",
+    "Description": "The Opengraph Type Being Used for the Page",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 101,
+    "ObjectName": "richSnippet.metatags.ogUpdatedTime",
+    "Title": "OG Updated Time",
+    "Description": "The Opengraph Updated Time",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 166,
+    "ObjectName": "richSnippet.metatags.ogUrl",
+    "Title": "OG URL",
+    "Description": "The Opengraph URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.originalSource",
+    "Title": "Original Source",
+    "Description": "The Original Source",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.pageCategory",
+    "Title": "Page Category",
+    "Description": "The Page Category",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.pageContentSource",
+    "Title": "Page Content Source",
+    "Description": "The Page Content Source",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.pageContentType",
+    "Title": "Page Content Type",
+    "Description": "The Page Content Type",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.pageRegion",
+    "Title": "Page Region",
+    "Description": "The Page Region",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.pageSection",
+    "Title": "Page Section",
+    "Description": "The Page Section",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.pageSite",
+    "Title": "Page Site",
+    "Description": "The Page Site",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.pageSiteProduct",
+    "Title": "Page Site Product",
+    "Description": "The Page Site Product",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.pagetype",
+    "Title": "Page Type",
+    "Description": "The Page Type",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 16,
+    "ObjectName": "richSnippet.metatags.parselyAuthor",
+    "Title": "Parsely Author",
+    "Description": "The Parsely Author",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 138,
+    "ObjectName": "richSnippet.metatags.parselyImageUrl",
+    "Title": "Parsely Image",
+    "Description": "The Parsely Image URL",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.parselyLink",
+    "Title": "Parsely Link",
+    "Description": "The Parsely Link",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.parselyPubDate",
+    "Title": "Parsely Publication Date",
+    "Description": "The Parsely Publication Date",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 96,
+    "ObjectName": "richSnippet.metatags.parselySection",
+    "Title": "Parsely Section",
+    "Description": "The Parsely Section",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 80,
+    "ObjectName": "richSnippet.metatags.parselyTags",
+    "Title": "Parsely Tags",
+    "Description": "The Parsely Tags",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 5,
+    "ObjectName": "richSnippet.metatags.parselyTitle",
+    "Title": "Parsely Title",
+    "Description": "The Parsely Title",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 67,
+    "ObjectName": "richSnippet.metatags.parselyType",
+    "Title": "Parsely Type",
+    "Description": "The Parsely Type",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 85,
+    "ObjectName": "richSnippet.metatags.pbdate",
+    "Title": "Publish Date",
+    "Description": "The Publish Date",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 198,
+    "ObjectName": "richSnippet.metatags.pDomainVerify",
+    "Title": "Verification Pinterest",
+    "Description": "The Verification Code for Pinterest",
+    "Sort by type": "Verification",
+    "FontAwesomeIcon": "fas fa-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 66,
+    "ObjectName": "richSnippet.metatags.phxContentObjectType",
+    "Title": "Object Type",
+    "Description": "The Object Type",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.phxExclusiveContentType",
+    "Title": "Exclusive Content Type",
+    "Description": "The Exclusive Content Type",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 157,
+    "ObjectName": "richSnippet.metatags.pinterestappPinboard",
+    "Title": "Pinterest App Pinboard",
+    "Description": "The Pinterest App Pinboard URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-pinterest",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 158,
+    "ObjectName": "richSnippet.metatags.pinterestappPinner",
+    "Title": "Pinterest App Pinner",
+    "Description": "The Pinterest App Pinner URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-pinterest",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 156,
+    "ObjectName": "richSnippet.metatags.pinterestappRepins",
+    "Title": "Pinterest App RePins",
+    "Description": "The Pinterest App Repins Amount",
+    "Sort by type": "Count",
+    "FontAwesomeIcon": "fab fa-pinterest",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 155,
+    "ObjectName": "richSnippet.metatags.pinterestappSource",
+    "Title": "Pinterest App Source",
+    "Description": "The Pinterest App Source",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-pinterest",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 153,
+    "ObjectName": "richSnippet.metatags.pinterestDescription",
+    "Title": "Pinterest Description",
+    "Description": "The Pinterest Description",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-align-left",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 154,
+    "ObjectName": "richSnippet.metatags.pinterestMedia",
+    "Title": "Pinterest Media",
+    "Description": "The Pinterest Media",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fab fa-pinterest",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 152,
+    "ObjectName": "richSnippet.metatags.pinterestUrl",
+    "Title": "Pinterest URL",
+    "Description": "The Pinterest URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-pinterest",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.providerid",
+    "Title": "Provider ID",
+    "Description": "The Provider ID",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.pst",
+    "Title": "PST Name",
+    "Description": "The Personal Storage Table Name",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.pt",
+    "Title": "PT Name",
+    "Description": "The Publish Type",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 107,
+    "ObjectName": "richSnippet.metatags.published",
+    "Title": "Published",
+    "Description": "The Published Date",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 64,
+    "ObjectName": "richSnippet.metatags.rating",
+    "Title": "Rating",
+    "Description": "The Rating",
+    "Sort by type": "Rating",
+    "FontAwesomeIcon": "fas fa-star-half-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.ratingvalue",
+    "Title": "Rating Value",
+    "Description": "The Rating Value",
+    "Sort by type": "Rating",
+    "FontAwesomeIcon": "fas fa-star-half-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.referrer",
+    "Title": "Referrer",
+    "Description": "The Referrer",
+    "Sort by type": "Other",
+    "FontAwesomeIcon": "fas fa-sticky-note",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.replyTo",
+    "Title": "Reply To",
+    "Description": "The Reply to Email",
+    "Sort by type": "Other",
+    "FontAwesomeIcon": "fas fa-sticky-note",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.reviewbody",
+    "Title": "Review Body",
+    "Description": "The Review Body Summary",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-align-left",
+    "NOTE for Vlad": "convert unicode like \\u003cb\\u003e to html <b>",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 102,
+    "ObjectName": "richSnippet.metatags.revisionDate",
+    "Title": "Revision Date",
+    "Description": "The Revision Date",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 125,
+    "ObjectName": "richSnippet.metatags.sailthruAuthor",
+    "Title": "Sailthru Author",
+    "Description": "The Sailthru Author",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 130,
+    "ObjectName": "richSnippet.metatags.sailthruContenttype",
+    "Title": "Sailthru Content Type",
+    "Description": "The Sailthru Content Type",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 131,
+    "ObjectName": "richSnippet.metatags.sailthruDate",
+    "Title": "Sailthru Date",
+    "Description": "The Sailthru Date of the Page",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 129,
+    "ObjectName": "richSnippet.metatags.sailthruDescription",
+    "Title": "Sailthru Description",
+    "Description": "The Sailthru Description of the Page",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-align-left",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 128,
+    "ObjectName": "richSnippet.metatags.sailthruExcerpt",
+    "Title": "Sailthru Excerpt",
+    "Description": "The Sailthru Excerpt of the Page",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-book-open",
+    "NOTE for Vlad": "unescape special html like \\\" to “",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 132,
+    "ObjectName": "richSnippet.metatags.sailthruImageFull",
+    "Title": "Sailthru Full Image",
+    "Description": "The Full Sailthru Image",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 133,
+    "ObjectName": "richSnippet.metatags.sailthruImageThumb",
+    "Title": "Sailthru Thumbnail",
+    "Description": "The Sailthru Thumbnail for the Page Image",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 127,
+    "ObjectName": "richSnippet.metatags.sailthruSocialtitle",
+    "Title": "Sailthru Social Title",
+    "Description": "The Sailthru Social Title",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 124,
+    "ObjectName": "richSnippet.metatags.sailthruTags",
+    "Title": "Sailthru Tags",
+    "Description": "The Sailthru Tags Found for the Page",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 126,
+    "ObjectName": "richSnippet.metatags.sailthruTitle",
+    "Title": "Sailthru Title",
+    "Description": "The Sailthru Title",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.section",
+    "Title": "Section",
+    "Description": "The Section",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.standout",
+    "Title": "Standout",
+    "Description": "The Standout",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.subSection",
+    "Title": "Sub Section",
+    "Description": "The Sub Section",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.syndicationSource",
+    "Title": "Syndication Source",
+    "Description": "The Syndication Source",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 192,
+    "ObjectName": "richSnippet.metatags.themeColor",
+    "Title": "Theme Color",
+    "Description": "The Theme Color",
+    "Sort by type": "Other",
+    "FontAwesomeIcon": "fas fa-sticky-note",
+    "NOTE for Vlad": "display the color code as color, ie. #006341 will be style=”color:#006341”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 137,
+    "ObjectName": "richSnippet.metatags.thumbnail",
+    "Title": "Thumbnail",
+    "Description": "The Thumbnail Image",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.title",
+    "Title": "Title",
+    "Description": "The Title",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.twitterAppIdGoogleplay",
+    "Title": "Twitter App ID Google",
+    "Description": "The Twitter App ID Google Play",
+    "Sort by type": "App",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "make a hyperlink with https://play.google.com/store/apps/details?id= using the ID",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.twitterAppIdIpad",
+    "Title": "Twitter App ID iPad",
+    "Description": "The Twitter App ID iPad",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "make a hyperlink with https://apps.apple.com/us/app/keyword-research-tool/id using the ID",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.twitterAppIdIphone",
+    "Title": "Twitter App ID iPhone",
+    "Description": "The Twitter App ID iPhone",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "make a hyperlink with https://apps.apple.com/us/app/keyword-research-tool/id using the ID",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.twitterAppNameGoogleplay",
+    "Title": "Twitter App Name Google",
+    "Description": "The Twitter App Name Google",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.twitterAppNameIpad",
+    "Title": "Twitter App Name iPad",
+    "Description": "The Twitter App Name iPad",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.twitterAppNameIphone",
+    "Title": "Twitter App Name iPhone",
+    "Description": "The Twitter App Name iPhone",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 149,
+    "ObjectName": "richSnippet.metatags.twitterCreator",
+    "Title": "Twitter Creator",
+    "Description": "The Twitter Creator Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "make it a hyperlink with https://twitter.com/ in front & remove @",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 148,
+    "ObjectName": "richSnippet.metatags.twitterData1",
+    "Title": "Twitter Data",
+    "Description": "The Twitter Data",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 151,
+    "ObjectName": "richSnippet.metatags.twitterDescription",
+    "Title": "Twitter Description",
+    "Description": "The Twitter Description",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 146,
+    "ObjectName": "richSnippet.metatags.twitterDomain",
+    "Title": "Twitter Domain",
+    "Description": "The Twitter Domain",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 144,
+    "ObjectName": "richSnippet.metatags.twitterImage",
+    "Title": "Twitter Image",
+    "Description": "The Twitter Image",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 143,
+    "ObjectName": "richSnippet.metatags.twitterImageSrc",
+    "Title": "Image Source",
+    "Description": "The Twitter Image Source URL",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 147,
+    "ObjectName": "richSnippet.metatags.twitterSite",
+    "Title": "Twitter Site",
+    "Description": "The Twitter Site Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "make it a hyperlink with https://twitter.com/ in front & remove @",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 150,
+    "ObjectName": "richSnippet.metatags.twitterTitle",
+    "Title": "Twitter Title",
+    "Description": "The Twitter Title",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fab fa-twitter",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 145,
+    "ObjectName": "richSnippet.metatags.twitterUrl",
+    "Title": "Twitter URL",
+    "Description": "The Twitter URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 70,
+    "ObjectName": "richSnippet.metatags.type",
+    "Title": "Type",
+    "Description": "The Type of the Page",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.url",
+    "Title": "META Tags URL",
+    "Description": "The META Tags URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 56,
+    "ObjectName": "richSnippet.metatags.vertical",
+    "Title": "Vertical",
+    "Description": "The Vertical",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.metatags.webgainsSiteVerification",
+    "Title": "Verification WebGains",
+    "Description": "The Verification for the Webgains Site",
+    "Sort by type": "Verification",
+    "FontAwesomeIcon": "fas fa-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 200,
+    "ObjectName": "richSnippet.metatags.yandexVerification",
+    "Title": "Verification Yandex",
+    "Description": "The Verification Code for Yandex",
+    "Sort by type": "Verification",
+    "FontAwesomeIcon": "fas fa-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 201,
+    "ObjectName": "richSnippet.metatags.yKey",
+    "Title": "Verification Yahoo",
+    "Description": "The Verification Key for Yahoo",
+    "Sort by type": "Verification",
+    "FontAwesomeIcon": "fas fa-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.offer.name",
+    "Title": "Price Name",
+    "Description": "Price Name",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (offer)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.offer.price",
+    "Title": "Price",
+    "Description": "The Price",
+    "Sort by type": "Price",
+    "FontAwesomeIcon": "fas fa-dollar-sign",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (offer)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.offer.pricecurrency",
+    "Title": "Price Currency",
+    "Description": "The Price Currency",
+    "Sort by type": "Price",
+    "FontAwesomeIcon": "fas fa-dollar-sign",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (offer)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.openinghoursspecification.closes",
+    "Title": "Opening Hrs Close time",
+    "Description": "The Opening Hrs Close Time",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (openinghoursspecification)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.openinghoursspecification.dayofweek",
+    "Title": "Opening Hrs Weekdays",
+    "Description": "The Opening Hrs Weekdays",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (openinghoursspecification)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.openinghoursspecification.opens",
+    "Title": "Opening Hrs Open time",
+    "Description": "The Opening Hrs Open Time",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (openinghoursspecification)"
+  },
+  {
+    "Num": 34,
+    "ObjectName": "richSnippet.organization.founder",
+    "Title": "Organization Founder",
+    "Description": "The Organization Founder",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 36,
+    "ObjectName": "richSnippet.organization.foundingdate",
+    "Title": "Organization Founding",
+    "Description": "The Organization Founding Date",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 37,
+    "ObjectName": "richSnippet.organization.logo",
+    "Title": "Organization Logo",
+    "Description": "The Organization Logo",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 33,
+    "ObjectName": "richSnippet.organization.name",
+    "Title": "Organization Name",
+    "Description": "The Name of the Organization Writing the Page",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 35,
+    "ObjectName": "richSnippet.organization.sameas",
+    "Title": "Organization Page",
+    "Description": "The Page on the Organization of the Page",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 38,
+    "ObjectName": "richSnippet.organization.url",
+    "Title": "Organization URL",
+    "Description": "The Organization URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 23,
+    "ObjectName": "richSnippet.person.description",
+    "Title": "Author Description",
+    "Description": "The Description of the Author of the Page",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-user-tag",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": "yes (person)"
+  },
+  {
+    "Num": 27,
+    "ObjectName": "richSnippet.person.jobtitle",
+    "Title": "Person Job Title",
+    "Description": "The Person’s Job Title",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (person)"
+  },
+  {
+    "Num": 24,
+    "ObjectName": "richSnippet.person.name",
+    "Title": "Person Full Name",
+    "Description": "The Name of the Person on the Page",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": "yes (person)"
+  },
+  {
+    "Num": 26,
+    "ObjectName": "richSnippet.person.role",
+    "Title": "Person Role",
+    "Description": "The Person’s Role",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (person)"
+  },
+  {
+    "Num": 25,
+    "ObjectName": "richSnippet.person.sameas",
+    "Title": "Person Page",
+    "Description": "The Page on the Site of the Person of the Page",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": "yes (person)"
+  },
+  {
+    "Num": 43,
+    "ObjectName": "richSnippet.place.map",
+    "Title": "Map Place",
+    "Description": "The Place on the Map",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.postaladdress.addresscountry",
+    "Title": "Postal Address Country",
+    "Description": "The Postal Address Country",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (postaladdress)"
+  },
+  {
+    "Num": 39,
+    "ObjectName": "richSnippet.postaladdress.addresslocality",
+    "Title": "Postal Address Locality",
+    "Description": "The Postal Addess Locality",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (postaladdress)"
+  },
+  {
+    "Num": 41,
+    "ObjectName": "richSnippet.postaladdress.addressregion",
+    "Title": "Postal Address Region",
+    "Description": "The Postal Addess Region",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (postaladdress)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.postaladdress.name",
+    "Title": "Postal Address Name",
+    "Description": "The Postal Address Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (postaladdress)"
+  },
+  {
+    "Num": 40,
+    "ObjectName": "richSnippet.postaladdress.postalcode",
+    "Title": "Postal Address Code",
+    "Description": "The Postal Addess Code",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (postaladdress)"
+  },
+  {
+    "Num": 42,
+    "ObjectName": "richSnippet.postaladdress.streetaddress",
+    "Title": "Postal Address Street",
+    "Description": "The Postal Addess Street",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (postaladdress)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.question.answercount",
+    "Title": "Question Answer Count",
+    "Description": "The Question Answer Count",
+    "Sort by type": "Count",
+    "FontAwesomeIcon": "fas fa-info-circle",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.question.datecreated",
+    "Title": "Question Date Created",
+    "Description": "The Question Date Created",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.question.image",
+    "Title": "Question Image",
+    "Description": "The Question Image",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.question.name",
+    "Title": "Question Name",
+    "Description": "The Question Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.question.text",
+    "Title": "Question Text",
+    "Description": "The Question Text",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-align-left",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.question.upvotecount",
+    "Title": "Question Upvote Count",
+    "Description": "The Question Upvote Count",
+    "Sort by type": "Count",
+    "FontAwesomeIcon": "fas fa-info-circle",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 140,
+    "ObjectName": "richSnippet.scraped.imageLink",
+    "Title": "Image Link",
+    "Description": "The Image Link",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 55,
+    "ObjectName": "richSnippet.service.servicetype",
+    "Title": "Service Type",
+    "Description": "The Service Type",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.sitenavigationelement.name",
+    "Title": "Navigation Name",
+    "Description": "The Site Navigation Element Name",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.sitenavigationelement.url",
+    "Title": "Navigation URL",
+    "Description": "The Site Navigation Element URL",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 77,
+    "ObjectName": "richSnippet.thing.name",
+    "Title": "Thing Name",
+    "Description": "The Name of Thing",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": "yes (thing)"
+  },
+  {
+    "Num": 134,
+    "ObjectName": "richSnippet.thumbnail.src",
+    "Title": "Thumbnail Google",
+    "Description": "The Thumbnail Image Used By Google",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.useraccount.name",
+    "Title": "User Account Name",
+    "Description": "The User Account Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": "yes (useraccount)"
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.webpage.datecreated",
+    "Title": "Webpage Date Created",
+    "Description": "The Webpage Date Created",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.webpage.datemodified",
+    "Title": "Webpage Date Modified",
+    "Description": "The Webpage Date Modified",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.webpage.datepublished",
+    "Title": "Webpage Date Published",
+    "Description": "The Webpage Date Published",
+    "Sort by type": "Date",
+    "FontAwesomeIcon": "fas fa-calendar-check",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.webpage.description",
+    "Title": "Webpage Description",
+    "Description": "The Webpage Description",
+    "Sort by type": "Text",
+    "FontAwesomeIcon": "fas fa-align-left",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 195,
+    "ObjectName": "richSnippet.webpage.home",
+    "Title": "Webpage Home",
+    "Description": "The Webpage Home",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.webpage.image",
+    "Title": "Webpage Image",
+    "Description": "The Webpage Image",
+    "Sort by type": "Image",
+    "FontAwesomeIcon": "fas fa-image",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.webpage.inlanguage",
+    "Title": "Webpage Language",
+    "Description": "The Webpage Language",
+    "Sort by type": "GEO",
+    "FontAwesomeIcon": "fas fa-globe-europe",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.webpage.keywords",
+    "Title": "Webpage Keywords",
+    "Description": "The Webpage Keywords",
+    "Sort by type": "Keyword",
+    "FontAwesomeIcon": "fas fa-tags",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 196,
+    "ObjectName": "richSnippet.webpage.name",
+    "Title": "Webpage Name",
+    "Description": "The Webpage Name",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.webpage.publisher",
+    "Title": "Webpage Publisher",
+    "Description": "The Webpage Publisher",
+    "Sort by type": "Name",
+    "FontAwesomeIcon": "fas fa-users",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.webpage.url",
+    "Title": "Webpage URL",
+    "Description": "The Webpage URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": "",
+    "ObjectName": "richSnippet.wpheader.headline",
+    "Title": "WordPress Headline",
+    "Description": "The Wordpress Headline",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fas fa-file-alt",
+    "NOTE for Vlad": "make the text go to google with https://www.google.com/search?q=",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 2,
+    "ObjectName": "title",
+    "Title": "Google Title Formatted",
+    "Description": "The Title from Google Formatted",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fab fa-google",
+    "NOTE for Vlad": "convert unicode like \\u003cb\\u003e to html <b>",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 1,
+    "ObjectName": "titleNoFormatting",
+    "Title": "Google Title",
+    "Description": "The Title from Google",
+    "Sort by type": "Title",
+    "FontAwesomeIcon": "fab fa-google",
+    "NOTE for Vlad": "",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 6,
+    "ObjectName": "url",
+    "Title": "Google URL",
+    "Description": "The URL",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  },
+  {
+    "Num": 7,
+    "ObjectName": "visibleUrl",
+    "Title": "Google Domain",
+    "Description": "The Domain",
+    "Sort by type": "URL",
+    "FontAwesomeIcon": "fas fa-link",
+    "NOTE for Vlad": "make it a hyperlink ahref=”",
+    "Possible objects list [ ]": ""
+  }
+]

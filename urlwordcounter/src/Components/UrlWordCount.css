@@ -1,0 +1,42 @@
+.headOfURLs{
+    background-color: #212529;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border-radius: 2px;
+}
+.mainDivUrlCount{
+    height: 200px;
+    width: 95%;
+    border: 1px solid #c7c7c7;
+}
+.textAreaURLCount{
+    width: 100%;
+    font-size: 14px;
+    height: 159px;
+    overflow: auto;
+    outline: none;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+
+}
+.startScanning{
+    position: relative;
+    top: -16px;
+    padding: 5px 13px;
+    color: white;
+    border-radius: 6px;
+    left: 83%;
+    border: 1px solid white;
+}
+.notice{
+    font-weight: 500;
+    font-size: 14px;
+    color: red;
+    padding-top: 10px;
+}
+.ntice-span{
+    color: green;
+}

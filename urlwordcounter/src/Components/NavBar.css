@@ -1,0 +1,32 @@
+.pure-menu{
+    position: fixed;
+    background-color: rgb(25, 24, 24);
+    height:100vh;
+    width:200px;
+}
+
+.pure-menu-item{
+    margin-top: 10px;
+    color:#777;
+}
+
+.a :hover{
+    color:red !important;
+}
+
+.pure-menu-item :hover > a{
+    color:#777;
+}
+
+.pure-menu-item :hover{
+    background-color: rgb(55, 54, 54);
+    color:white;
+}
+
+.pure-menu-item a:hover {
+    text-decoration: none;
+}
+
+.nav-link.active {
+    color:white;
+}
